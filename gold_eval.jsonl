@@ -1,0 +1,448 @@
+{"segment_id": "evalcall_000_s000", "call_id": "evalcall_000", "turn": 0, "speaker": "customer", "text": "Danke, ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_000_s001", "call_id": "evalcall_000", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_000_s002", "call_id": "evalcall_000", "turn": 2, "speaker": "advisor", "text": "schön, sie wiederzusehen, herr schäfer! wie geht es ihrer halt familie? wissen sie", "phase": "Kontakt"}
+{"segment_id": "evalcall_000_s003", "call_id": "evalcall_000", "turn": 3, "speaker": "customer", "text": "ja, alles bestens, der termin wissen sie passt mir heute sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_000_s004", "call_id": "evalcall_000", "turn": 4, "speaker": "customer", "text": "Klingt gut, ich also bin gespannt, was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_000_s005", "call_id": "evalcall_000", "turn": 5, "speaker": "advisor", "text": "erzählen sie genau mir doch mal halt mehr über ihre aktuelle situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s006", "call_id": "evalcall_000", "turn": 6, "speaker": "advisor", "text": "Welche Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s007", "call_id": "evalcall_000", "turn": 7, "speaker": "customer", "text": "Ich möchte gerne ein Eigenheim finanzieren und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s008", "call_id": "evalcall_000", "turn": 8, "speaker": "advisor", "text": "Wie viel können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s009", "call_id": "evalcall_000", "turn": 9, "speaker": "customer", "text": "genau, ich will einfach nachts ruhig schlafen ähm können.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s010", "call_id": "evalcall_000", "turn": 10, "speaker": "advisor", "text": "wie ist denn ihre aktuelle absicherung äh im fall einer berufsunfähigkeit.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s011", "call_id": "evalcall_000", "turn": 11, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s012", "call_id": "evalcall_000", "turn": 12, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende konkret einsetzen.", "phase": "Analyse"}
+{"segment_id": "evalcall_000_s013", "call_id": "evalcall_000", "turn": 13, "speaker": "advisor", "text": "Auf Basis dessen was Sie gesagt haben empfehle ich Ihnen einen Investmentfonds. sozusagen halt", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s014", "call_id": "evalcall_000", "turn": 14, "speaker": "advisor", "text": "ich würde ihnen zusätzlich einen investmentfonds ans ja herz legen, um die lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s015", "call_id": "evalcall_000", "turn": 15, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s016", "call_id": "evalcall_000", "turn": 16, "speaker": "customer", "text": "Aha, das klingt äh erstmal interessant. ja", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s017", "call_id": "evalcall_000", "turn": 17, "speaker": "advisor", "text": "Schauen Sie, mit dem Investmentfonds legen Sie monatlich 150 Euro im Monat an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s018", "call_id": "evalcall_000", "turn": 18, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s019", "call_id": "evalcall_000", "turn": 19, "speaker": "advisor", "text": "Was halten genau Sie von der monatlichen ja Rate.", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s020", "call_id": "evalcall_000", "turn": 20, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s021", "call_id": "evalcall_000", "turn": 21, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s022", "call_id": "evalcall_000", "turn": 22, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s023", "call_id": "evalcall_000", "turn": 23, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 150 Euro im Monat und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s024", "call_id": "evalcall_000", "turn": 24, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Investmentfonds ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s025", "call_id": "evalcall_000", "turn": 25, "speaker": "advisor", "text": "äh So profitieren ähm Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s026", "call_id": "evalcall_000", "turn": 26, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s027", "call_id": "evalcall_000", "turn": 27, "speaker": "advisor", "text": "Schauen Sie, mit dem Investmentfonds legen Sie monatlich 150 Euro im Monat an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_000_s028", "call_id": "evalcall_000", "turn": 28, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s029", "call_id": "evalcall_000", "turn": 29, "speaker": "advisor", "text": "Was halten Sie von der monatlichen nun ja Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s030", "call_id": "evalcall_000", "turn": 30, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s031", "call_id": "evalcall_000", "turn": 31, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s032", "call_id": "evalcall_000", "turn": 32, "speaker": "advisor", "text": "was müsste das angebot erfüllen damit sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s033", "call_id": "evalcall_000", "turn": 33, "speaker": "customer", "text": "Ich bin da äh noch skeptisch, das ist eine naja lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_000_s034", "call_id": "evalcall_000", "turn": 34, "speaker": "advisor", "text": "Sollen wir das dann so machen?", "phase": "Abschluss"}
+{"segment_id": "evalcall_000_s035", "call_id": "evalcall_000", "turn": 35, "speaker": "advisor", "text": "Dann brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_000_s036", "call_id": "evalcall_000", "turn": 36, "speaker": "advisor", "text": "Beim nächsten Termin schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_000_s037", "call_id": "evalcall_000", "turn": 37, "speaker": "advisor", "text": "Wunderbar, dann setzen wir den Vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_000_s038", "call_id": "evalcall_000", "turn": 38, "speaker": "customer", "text": "Ja, machen wir, genau ich freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_000_s039", "call_id": "evalcall_000", "turn": 39, "speaker": "advisor", "text": "Sie haben damit wirklich eine gute Entscheidung also getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_000_s040", "call_id": "evalcall_000", "turn": 40, "speaker": "advisor", "text": "sehr gerne. grüßen sie ihre familie und äh kommen sie gut nach hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_000_s041", "call_id": "evalcall_000", "turn": 41, "speaker": "advisor", "text": "Sie können also sich jederzeit bei mir melden wenn etwas halt unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_000_s042", "call_id": "evalcall_000", "turn": 42, "speaker": "advisor", "text": "Ich bin überzeugt, dass Sie diese Entscheidung ähm nicht genau bereuen werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_000_s043", "call_id": "evalcall_000", "turn": 43, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_001_s000", "call_id": "evalcall_001", "turn": 0, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_001_s001", "call_id": "evalcall_001", "turn": 1, "speaker": "advisor", "text": "schön sie wiederzusehen herr schmidt! wie geht es ihrer familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_001_s002", "call_id": "evalcall_001", "turn": 2, "speaker": "customer", "text": "Ja, alles bestens, der Termin passt mir heute sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_001_s003", "call_id": "evalcall_001", "turn": 3, "speaker": "advisor", "text": "Lassen Sie uns kurz den Ablauf für heute besprechen, bevor wir starten.", "phase": "Kontakt"}
+{"segment_id": "evalcall_001_s004", "call_id": "evalcall_001", "turn": 4, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s005", "call_id": "evalcall_001", "turn": 5, "speaker": "advisor", "text": "Welche Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s006", "call_id": "evalcall_001", "turn": 6, "speaker": "advisor", "text": "Wie also viel können Sie denn monatlich zur ähm Seite legen.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s007", "call_id": "evalcall_001", "turn": 7, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei anderen Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s008", "call_id": "evalcall_001", "turn": 8, "speaker": "customer", "text": "Genau, ich will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s009", "call_id": "evalcall_001", "turn": 9, "speaker": "advisor", "text": "Wie ist denn Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s010", "call_id": "evalcall_001", "turn": 10, "speaker": "customer", "text": "naja am liebsten eine also kleine eigentumswohnung und ein polster für notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s011", "call_id": "evalcall_001", "turn": 11, "speaker": "advisor", "text": "wofür möchten sie das geld am ende sozusagen konkret einsetzen.", "phase": "Analyse"}
+{"segment_id": "evalcall_001_s012", "call_id": "evalcall_001", "turn": 12, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Berufsunfähigkeitsversicherung.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s013", "call_id": "evalcall_001", "turn": 13, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 300 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s014", "call_id": "evalcall_001", "turn": 14, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Berufsunfähigkeitsversicherung ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s015", "call_id": "evalcall_001", "turn": 15, "speaker": "advisor", "text": "genau So profitieren Sie von attraktiven Konditionen und staatlicher also Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s016", "call_id": "evalcall_001", "turn": 16, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s017", "call_id": "evalcall_001", "turn": 17, "speaker": "advisor", "text": "Schauen Sie, mit dem Berufsunfähigkeitsversicherung legen Sie monatlich 300 Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s018", "call_id": "evalcall_001", "turn": 18, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s019", "call_id": "evalcall_001", "turn": 19, "speaker": "customer", "text": "kann ich da auch wieder raus, falls sich meine ähm lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s020", "call_id": "evalcall_001", "turn": 20, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s021", "call_id": "evalcall_001", "turn": 21, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit also Sie sich rundum ähm wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s022", "call_id": "evalcall_001", "turn": 22, "speaker": "customer", "text": "Ich bin nun ja da noch skeptisch das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s023", "call_id": "evalcall_001", "turn": 23, "speaker": "advisor", "text": "auf sozusagen basis dessen, was sie gesagt haben, empfehle ich ihnen einen also berufsunfähigkeitsversicherung.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s024", "call_id": "evalcall_001", "turn": 24, "speaker": "advisor", "text": "Das bedeutet ja konkret für Sie: Sie sozusagen sparen jeden Monat 300 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s025", "call_id": "evalcall_001", "turn": 25, "speaker": "advisor", "text": "Ich würde Ihnen äh zusätzlich einen Berufsunfähigkeitsversicherung ans Herz legen um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s026", "call_id": "evalcall_001", "turn": 26, "speaker": "advisor", "text": "genau so profitieren sie von attraktiven konditionen und staatlicher förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s027", "call_id": "evalcall_001", "turn": 27, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s028", "call_id": "evalcall_001", "turn": 28, "speaker": "advisor", "text": "Schauen Sie, mit dem Berufsunfähigkeitsversicherung legen Sie monatlich 300 Euro an äh also und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_001_s029", "call_id": "evalcall_001", "turn": 29, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie.", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s030", "call_id": "evalcall_001", "turn": 30, "speaker": "advisor", "text": "was halten sie von der monatlichen rate.", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s031", "call_id": "evalcall_001", "turn": 31, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s032", "call_id": "evalcall_001", "turn": 32, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s033", "call_id": "evalcall_001", "turn": 33, "speaker": "customer", "text": "ich bin da noch skeptisch, das ist eine lange bindung. sozusagen", "phase": "Pruefung"}
+{"segment_id": "evalcall_001_s034", "call_id": "evalcall_001", "turn": 34, "speaker": "advisor", "text": "Sollen wir das wissen Sie dann so machen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s035", "call_id": "evalcall_001", "turn": 35, "speaker": "advisor", "text": "ja dann brauche ich nur noch ihre unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s036", "call_id": "evalcall_001", "turn": 36, "speaker": "advisor", "text": "beim nächsten termin ja schauen wir uns wissen sie dann noch ihre altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s037", "call_id": "evalcall_001", "turn": 37, "speaker": "advisor", "text": "genau Wunderbar, dann setzen wir den Vertrag sozusagen jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s038", "call_id": "evalcall_001", "turn": 38, "speaker": "customer", "text": "Gut, dann lassen Sie uns das so abschließen. äh", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s039", "call_id": "evalcall_001", "turn": 39, "speaker": "customer", "text": "ja machen wir ich freue mich dass halt wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_001_s040", "call_id": "evalcall_001", "turn": 40, "speaker": "advisor", "text": "sie haben damit wirklich eine gute entscheidung getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_001_s041", "call_id": "evalcall_001", "turn": 41, "speaker": "advisor", "text": "Sehr gerne. Grüßen Sie Ihre Familie und kommen Sie gut nach Hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_001_s042", "call_id": "evalcall_001", "turn": 42, "speaker": "advisor", "text": "sie können sich jederzeit bei ja mir melden, wenn etwas unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_001_s043", "call_id": "evalcall_001", "turn": 43, "speaker": "advisor", "text": "ich bin überzeugt dass sie diese entscheidung nicht bereuen werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_001_s044", "call_id": "evalcall_001", "turn": 44, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_002_s000", "call_id": "evalcall_002", "turn": 0, "speaker": "customer", "text": "Danke ja der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_002_s001", "call_id": "evalcall_002", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_002_s002", "call_id": "evalcall_002", "turn": 2, "speaker": "advisor", "text": "schön sie wiederzusehen herr naja becker! wie geht genau es ihrer familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_002_s003", "call_id": "evalcall_002", "turn": 3, "speaker": "advisor", "text": "Lassen Sie uns kurz den wissen Sie Ablauf für ja heute besprechen, bevor wir starten.", "phase": "Kontakt"}
+{"segment_id": "evalcall_002_s004", "call_id": "evalcall_002", "turn": 4, "speaker": "customer", "text": "Klingt gut ich bin gespannt sozusagen was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_002_s005", "call_id": "evalcall_002", "turn": 5, "speaker": "advisor", "text": "ja erzählen sie mir doch mal mehr über ihre aktuelle situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s006", "call_id": "evalcall_002", "turn": 6, "speaker": "advisor", "text": "welche ziele verfolgen sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s007", "call_id": "evalcall_002", "turn": 7, "speaker": "customer", "text": "Ich möchte gerne meine Familie absichern und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s008", "call_id": "evalcall_002", "turn": 8, "speaker": "advisor", "text": "Wie viel können genau Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s009", "call_id": "evalcall_002", "turn": 9, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei anderen Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s010", "call_id": "evalcall_002", "turn": 10, "speaker": "customer", "text": "Genau, ich ähm will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s011", "call_id": "evalcall_002", "turn": 11, "speaker": "advisor", "text": "Wie ist denn Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s012", "call_id": "evalcall_002", "turn": 12, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s013", "call_id": "evalcall_002", "turn": 13, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_002_s014", "call_id": "evalcall_002", "turn": 14, "speaker": "advisor", "text": "das bedeutet konkret für sie: sie sparen jeden monat 500 wissen sie euro und bauen ähm vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s015", "call_id": "evalcall_002", "turn": 15, "speaker": "advisor", "text": "ich würde ihnen zusätzlich einen tagesgeldkonto ans herz legen, um die lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s016", "call_id": "evalcall_002", "turn": 16, "speaker": "advisor", "text": "also So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s017", "call_id": "evalcall_002", "turn": 17, "speaker": "customer", "text": "aha halt das klingt erstmal interessant. sozusagen", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s018", "call_id": "evalcall_002", "turn": 18, "speaker": "advisor", "text": "schauen sie mit dem tagesgeldkonto legen sie monatlich 500 euro naja an und es arbeitet für sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s019", "call_id": "evalcall_002", "turn": 19, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s020", "call_id": "evalcall_002", "turn": 20, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s021", "call_id": "evalcall_002", "turn": 21, "speaker": "customer", "text": "Kann ich genau da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s022", "call_id": "evalcall_002", "turn": 22, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s023", "call_id": "evalcall_002", "turn": 23, "speaker": "advisor", "text": "Was müsste das Angebot genau erfüllen, damit wissen Sie Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s024", "call_id": "evalcall_002", "turn": 24, "speaker": "customer", "text": "Ich bin da noch ja skeptisch, das ist eine lange Bindung. äh", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s025", "call_id": "evalcall_002", "turn": 25, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Tagesgeldkonto.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s026", "call_id": "evalcall_002", "turn": 26, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Tagesgeldkonto ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s027", "call_id": "evalcall_002", "turn": 27, "speaker": "advisor", "text": "So profitieren Sie ähm von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s028", "call_id": "evalcall_002", "turn": 28, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s029", "call_id": "evalcall_002", "turn": 29, "speaker": "advisor", "text": "schauen naja sie, mit dem tagesgeldkonto legen sie monatlich 500 euro an und es arbeitet für sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_002_s030", "call_id": "evalcall_002", "turn": 30, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s031", "call_id": "evalcall_002", "turn": 31, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s032", "call_id": "evalcall_002", "turn": 32, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s033", "call_id": "evalcall_002", "turn": 33, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s034", "call_id": "evalcall_002", "turn": 34, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen? ja", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s035", "call_id": "evalcall_002", "turn": 35, "speaker": "customer", "text": "Ich bin da noch skeptisch also das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_002_s036", "call_id": "evalcall_002", "turn": 36, "speaker": "advisor", "text": "Dann brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_002_s037", "call_id": "evalcall_002", "turn": 37, "speaker": "advisor", "text": "Beim sozusagen nächsten Termin schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_002_s038", "call_id": "evalcall_002", "turn": 38, "speaker": "advisor", "text": "Wunderbar, dann setzen wir den Vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_002_s039", "call_id": "evalcall_002", "turn": 39, "speaker": "customer", "text": "gut dann lassen sie uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_002_s040", "call_id": "evalcall_002", "turn": 40, "speaker": "customer", "text": "ja, machen wir, genau ich freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_002_s041", "call_id": "evalcall_002", "turn": 41, "speaker": "advisor", "text": "sie haben damit wirklich eine gute entscheidung halt getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_002_s042", "call_id": "evalcall_002", "turn": 42, "speaker": "advisor", "text": "Sehr gerne. Grüßen Sie Ihre Familie und kommen Sie gut nach Hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_002_s043", "call_id": "evalcall_002", "turn": 43, "speaker": "advisor", "text": "Sie können sich jederzeit bei mir melden, wenn etwas also unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_002_s044", "call_id": "evalcall_002", "turn": 44, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_003_s000", "call_id": "evalcall_003", "turn": 0, "speaker": "customer", "text": "Danke, ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_003_s001", "call_id": "evalcall_003", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_003_s002", "call_id": "evalcall_003", "turn": 2, "speaker": "customer", "text": "Ja, alles bestens, der Termin passt mir heute sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_003_s003", "call_id": "evalcall_003", "turn": 3, "speaker": "customer", "text": "äh Klingt gut, ich bin gespannt, was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_003_s004", "call_id": "evalcall_003", "turn": 4, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s005", "call_id": "evalcall_003", "turn": 5, "speaker": "advisor", "text": "Welche Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s006", "call_id": "evalcall_003", "turn": 6, "speaker": "customer", "text": "Ich möchte gerne etwas Sicheres aufbauen und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s007", "call_id": "evalcall_003", "turn": 7, "speaker": "advisor", "text": "Wie viel nun ja können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s008", "call_id": "evalcall_003", "turn": 8, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei wissen Sie anderen genau Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s009", "call_id": "evalcall_003", "turn": 9, "speaker": "customer", "text": "Genau, ich will einfach nachts nun ja halt ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s010", "call_id": "evalcall_003", "turn": 10, "speaker": "advisor", "text": "Wie ist denn Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s011", "call_id": "evalcall_003", "turn": 11, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s012", "call_id": "evalcall_003", "turn": 12, "speaker": "advisor", "text": "Wofür möchten Sie also das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_003_s013", "call_id": "evalcall_003", "turn": 13, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Fondssparplan.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s014", "call_id": "evalcall_003", "turn": 14, "speaker": "advisor", "text": "das bedeutet konkret für sie: sie sparen jeden monat 150 euro im monat und bauen vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s015", "call_id": "evalcall_003", "turn": 15, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Fondssparplan ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s016", "call_id": "evalcall_003", "turn": 16, "speaker": "advisor", "text": "So profitieren Sie von nun ja attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s017", "call_id": "evalcall_003", "turn": 17, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s018", "call_id": "evalcall_003", "turn": 18, "speaker": "advisor", "text": "Schauen ja Sie, mit dem Fondssparplan legen Sie monatlich 150 Euro im Monat an und äh es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s019", "call_id": "evalcall_003", "turn": 19, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s020", "call_id": "evalcall_003", "turn": 20, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s021", "call_id": "evalcall_003", "turn": 21, "speaker": "customer", "text": "nun ja Kann ich da auch nun ja wieder raus falls sich meine Lage ändert.", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s022", "call_id": "evalcall_003", "turn": 22, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s023", "call_id": "evalcall_003", "turn": 23, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s024", "call_id": "evalcall_003", "turn": 24, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s025", "call_id": "evalcall_003", "turn": 25, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 150 Euro im Monat und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s026", "call_id": "evalcall_003", "turn": 26, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Fondssparplan ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s027", "call_id": "evalcall_003", "turn": 27, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s028", "call_id": "evalcall_003", "turn": 28, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s029", "call_id": "evalcall_003", "turn": 29, "speaker": "advisor", "text": "Schauen Sie, mit dem Fondssparplan legen Sie monatlich 150 Euro im Monat an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_003_s030", "call_id": "evalcall_003", "turn": 30, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie. äh", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s031", "call_id": "evalcall_003", "turn": 31, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s032", "call_id": "evalcall_003", "turn": 32, "speaker": "customer", "text": "kann ich da auch wieder raus falls sich meine lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s033", "call_id": "evalcall_003", "turn": 33, "speaker": "customer", "text": "bei meinem nachbarn lief so etwas ähnliches nicht so gut. ähm", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s034", "call_id": "evalcall_003", "turn": 34, "speaker": "advisor", "text": "was müsste das angebot erfüllen, damit sie sich rundum ähm wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s035", "call_id": "evalcall_003", "turn": 35, "speaker": "customer", "text": "Ich bin da noch halt skeptisch das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_003_s036", "call_id": "evalcall_003", "turn": 36, "speaker": "advisor", "text": "Sollen wir das dann so machen?", "phase": "Abschluss"}
+{"segment_id": "evalcall_003_s037", "call_id": "evalcall_003", "turn": 37, "speaker": "advisor", "text": "Dann brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_003_s038", "call_id": "evalcall_003", "turn": 38, "speaker": "advisor", "text": "beim nächsten termin schauen wir uns dann noch ihre ja altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_003_s039", "call_id": "evalcall_003", "turn": 39, "speaker": "customer", "text": "Gut, dann lassen Sie uns das wissen Sie so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_003_s040", "call_id": "evalcall_003", "turn": 40, "speaker": "advisor", "text": "Sehr gerne. Grüßen Sie Ihre Familie und kommen Sie gut nach Hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_003_s041", "call_id": "evalcall_003", "turn": 41, "speaker": "advisor", "text": "Ich bin überzeugt, genau dass Sie diese Entscheidung nicht bereuen werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_003_s042", "call_id": "evalcall_003", "turn": 42, "speaker": "advisor", "text": "passen äh sie gut auf sich auf und bis zum nächsten mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_004_s000", "call_id": "evalcall_004", "turn": 0, "speaker": "customer", "text": "Sehr gerne, ich freue genau mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_004_s001", "call_id": "evalcall_004", "turn": 1, "speaker": "advisor", "text": "Schön, Sie wiederzusehen, Herr Neumann! Wie geht es Ihrer Familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_004_s002", "call_id": "evalcall_004", "turn": 2, "speaker": "customer", "text": "ja, alles bestens, der termin passt mir äh heute sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_004_s003", "call_id": "evalcall_004", "turn": 3, "speaker": "advisor", "text": "Lassen Sie uns kurz den Ablauf für heute besprechen, bevor wir starten.", "phase": "Kontakt"}
+{"segment_id": "evalcall_004_s004", "call_id": "evalcall_004", "turn": 4, "speaker": "customer", "text": "klingt also gut ich bin gespannt was sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_004_s005", "call_id": "evalcall_004", "turn": 5, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s006", "call_id": "evalcall_004", "turn": 6, "speaker": "advisor", "text": "Welche ja Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s007", "call_id": "evalcall_004", "turn": 7, "speaker": "customer", "text": "Ich möchte gerne Geld für meine Kinder anlegen und vielleicht später naja ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s008", "call_id": "evalcall_004", "turn": 8, "speaker": "advisor", "text": "Wie viel können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s009", "call_id": "evalcall_004", "turn": 9, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei anderen Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s010", "call_id": "evalcall_004", "turn": 10, "speaker": "customer", "text": "Genau ich will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s011", "call_id": "evalcall_004", "turn": 11, "speaker": "advisor", "text": "Wie ist denn wissen Sie Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit.", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s012", "call_id": "evalcall_004", "turn": 12, "speaker": "customer", "text": "Am liebsten halt eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s013", "call_id": "evalcall_004", "turn": 13, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_004_s014", "call_id": "evalcall_004", "turn": 14, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Riester-Rente.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s015", "call_id": "evalcall_004", "turn": 15, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen ja jeden Monat 50.000 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s016", "call_id": "evalcall_004", "turn": 16, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Riester-Rente ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s017", "call_id": "evalcall_004", "turn": 17, "speaker": "advisor", "text": "So profitieren nun ja Sie nun ja von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s018", "call_id": "evalcall_004", "turn": 18, "speaker": "customer", "text": "Aha das ähm klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s019", "call_id": "evalcall_004", "turn": 19, "speaker": "advisor", "text": "Schauen Sie, mit dem Riester-Rente legen Sie monatlich 50.000 Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_004_s020", "call_id": "evalcall_004", "turn": 20, "speaker": "advisor", "text": "Wie klingt das also denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_004_s021", "call_id": "evalcall_004", "turn": 21, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich sozusagen meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_004_s022", "call_id": "evalcall_004", "turn": 22, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_004_s023", "call_id": "evalcall_004", "turn": 23, "speaker": "advisor", "text": "äh Was müsste das Angebot erfüllen, äh damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_004_s024", "call_id": "evalcall_004", "turn": 24, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_004_s025", "call_id": "evalcall_004", "turn": 25, "speaker": "advisor", "text": "Sollen wir ähm das dann so machen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_004_s026", "call_id": "evalcall_004", "turn": 26, "speaker": "advisor", "text": "dann brauche ja ich äh nur noch ihre unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_004_s027", "call_id": "evalcall_004", "turn": 27, "speaker": "advisor", "text": "wunderbar dann setzen wissen sie wir den vertrag jetzt direkt äh auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_004_s028", "call_id": "evalcall_004", "turn": 28, "speaker": "customer", "text": "Gut, dann lassen also Sie uns also das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_004_s029", "call_id": "evalcall_004", "turn": 29, "speaker": "advisor", "text": "sie haben damit wirklich eine gute wissen sie entscheidung getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_004_s030", "call_id": "evalcall_004", "turn": 30, "speaker": "advisor", "text": "sie können sich ja jederzeit bei mir melden, sozusagen wenn etwas unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_004_s031", "call_id": "evalcall_004", "turn": 31, "speaker": "advisor", "text": "ja Ich bin überzeugt, dass Sie diese Entscheidung nicht bereuen naja werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_004_s032", "call_id": "evalcall_004", "turn": 32, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_005_s000", "call_id": "evalcall_005", "turn": 0, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_005_s001", "call_id": "evalcall_005", "turn": 1, "speaker": "advisor", "text": "Schön, Sie wiederzusehen, Herr Neumann! Wie geht es Ihrer Familie.", "phase": "Kontakt"}
+{"segment_id": "evalcall_005_s002", "call_id": "evalcall_005", "turn": 2, "speaker": "customer", "text": "Ja alles bestens der nun ja Termin passt mir heute sehr gut. ähm", "phase": "Kontakt"}
+{"segment_id": "evalcall_005_s003", "call_id": "evalcall_005", "turn": 3, "speaker": "customer", "text": "Klingt gut, ich genau bin gespannt, was Sie mir naja vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_005_s004", "call_id": "evalcall_005", "turn": 4, "speaker": "advisor", "text": "Welche Ziele verfolgen naja Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s005", "call_id": "evalcall_005", "turn": 5, "speaker": "customer", "text": "Ich möchte gerne genau für das Alter vorsorgen und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s006", "call_id": "evalcall_005", "turn": 6, "speaker": "advisor", "text": "Wie viel können sozusagen äh Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s007", "call_id": "evalcall_005", "turn": 7, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei anderen Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s008", "call_id": "evalcall_005", "turn": 8, "speaker": "customer", "text": "Genau, ich will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s009", "call_id": "evalcall_005", "turn": 9, "speaker": "advisor", "text": "also wie ist denn ihre aktuelle absicherung im fall einer berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s010", "call_id": "evalcall_005", "turn": 10, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s011", "call_id": "evalcall_005", "turn": 11, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_005_s012", "call_id": "evalcall_005", "turn": 12, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Tagesgeldkonto.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s013", "call_id": "evalcall_005", "turn": 13, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 300 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s014", "call_id": "evalcall_005", "turn": 14, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Tagesgeldkonto ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s015", "call_id": "evalcall_005", "turn": 15, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s016", "call_id": "evalcall_005", "turn": 16, "speaker": "customer", "text": "Aha, äh das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s017", "call_id": "evalcall_005", "turn": 17, "speaker": "advisor", "text": "Schauen Sie ja mit dem Tagesgeldkonto legen Sie monatlich 300 genau Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_005_s018", "call_id": "evalcall_005", "turn": 18, "speaker": "advisor", "text": "wie klingt das denn wissen sie so weit ja für sie.", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s019", "call_id": "evalcall_005", "turn": 19, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s020", "call_id": "evalcall_005", "turn": 20, "speaker": "customer", "text": "Kann ich da naja auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s021", "call_id": "evalcall_005", "turn": 21, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s022", "call_id": "evalcall_005", "turn": 22, "speaker": "advisor", "text": "also was müsste das angebot erfüllen damit sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s023", "call_id": "evalcall_005", "turn": 23, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_005_s024", "call_id": "evalcall_005", "turn": 24, "speaker": "advisor", "text": "Sollen wir genau das dann so machen?", "phase": "Abschluss"}
+{"segment_id": "evalcall_005_s025", "call_id": "evalcall_005", "turn": 25, "speaker": "advisor", "text": "Dann brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_005_s026", "call_id": "evalcall_005", "turn": 26, "speaker": "advisor", "text": "Beim also nächsten Termin genau schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_005_s027", "call_id": "evalcall_005", "turn": 27, "speaker": "advisor", "text": "Wunderbar, dann setzen wir den Vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_005_s028", "call_id": "evalcall_005", "turn": 28, "speaker": "customer", "text": "gut, dann lassen sie uns das also so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_005_s029", "call_id": "evalcall_005", "turn": 29, "speaker": "customer", "text": "Ja, machen wir, ich freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s000", "call_id": "evalcall_006", "turn": 0, "speaker": "customer", "text": "ähm Sehr gerne ich freue mich dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_006_s001", "call_id": "evalcall_006", "turn": 1, "speaker": "advisor", "text": "Schön, Sie wiederzusehen, Herr Müller! Wie geht es Ihrer Familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_006_s002", "call_id": "evalcall_006", "turn": 2, "speaker": "customer", "text": "Ja, alles bestens, der Termin passt mir heute naja sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_006_s003", "call_id": "evalcall_006", "turn": 3, "speaker": "customer", "text": "klingt gut, ich bin sozusagen gespannt, was sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_006_s004", "call_id": "evalcall_006", "turn": 4, "speaker": "advisor", "text": "Wie viel können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_006_s005", "call_id": "evalcall_006", "turn": 5, "speaker": "advisor", "text": "Welche Verträge haben Sie denn bereits bei anderen also wissen Sie Banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_006_s006", "call_id": "evalcall_006", "turn": 6, "speaker": "customer", "text": "genau ich will einfach also nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_006_s007", "call_id": "evalcall_006", "turn": 7, "speaker": "advisor", "text": "Wofür möchten Sie nun ja das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_006_s008", "call_id": "evalcall_006", "turn": 8, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle nun ja ich Ihnen einen Fondssparplan.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s009", "call_id": "evalcall_006", "turn": 9, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 500 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s010", "call_id": "evalcall_006", "turn": 10, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Fondssparplan ans Herz ja legen um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s011", "call_id": "evalcall_006", "turn": 11, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen äh also und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s012", "call_id": "evalcall_006", "turn": 12, "speaker": "customer", "text": "aha, das klingt erstmal wissen sie interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s013", "call_id": "evalcall_006", "turn": 13, "speaker": "advisor", "text": "Schauen Sie mit dem Fondssparplan legen Sie monatlich 500 Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_006_s014", "call_id": "evalcall_006", "turn": 14, "speaker": "advisor", "text": "Wie klingt das denn so genau weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s015", "call_id": "evalcall_006", "turn": 15, "speaker": "advisor", "text": "Was halt naja halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s016", "call_id": "evalcall_006", "turn": 16, "speaker": "customer", "text": "Kann ich da auch wieder raus, also nun ja falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s017", "call_id": "evalcall_006", "turn": 17, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s018", "call_id": "evalcall_006", "turn": 18, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s019", "call_id": "evalcall_006", "turn": 19, "speaker": "customer", "text": "Ich naja nun ja bin da noch skeptisch das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_006_s020", "call_id": "evalcall_006", "turn": 20, "speaker": "advisor", "text": "sozusagen sollen wir das dann so machen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s021", "call_id": "evalcall_006", "turn": 21, "speaker": "advisor", "text": "Dann sozusagen brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s022", "call_id": "evalcall_006", "turn": 22, "speaker": "advisor", "text": "Wunderbar, dann setzen wir den Vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s023", "call_id": "evalcall_006", "turn": 23, "speaker": "customer", "text": "Gut, dann lassen Sie uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s024", "call_id": "evalcall_006", "turn": 24, "speaker": "customer", "text": "sozusagen Ja, ähm machen wir, ich freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_006_s025", "call_id": "evalcall_006", "turn": 25, "speaker": "advisor", "text": "Sie haben damit wirklich eine gute Entscheidung getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_006_s026", "call_id": "evalcall_006", "turn": 26, "speaker": "advisor", "text": "Sehr gerne. Grüßen Sie Ihre Familie und kommen Sie gut nach Hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_006_s027", "call_id": "evalcall_006", "turn": 27, "speaker": "advisor", "text": "Sie können sich jederzeit bei mir melden, wenn etwas unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_006_s028", "call_id": "evalcall_006", "turn": 28, "speaker": "advisor", "text": "Ich bin überzeugt, dass Sie diese Entscheidung nicht bereuen werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_006_s029", "call_id": "evalcall_006", "turn": 29, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_007_s000", "call_id": "evalcall_007", "turn": 0, "speaker": "customer", "text": "Danke, ähm ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_007_s001", "call_id": "evalcall_007", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_007_s002", "call_id": "evalcall_007", "turn": 2, "speaker": "advisor", "text": "Schön, Sie wiederzusehen, Herr Schmidt! Wie geht es Ihrer Familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_007_s003", "call_id": "evalcall_007", "turn": 3, "speaker": "advisor", "text": "Lassen Sie uns kurz den Ablauf für heute besprechen, bevor wir starten.", "phase": "Kontakt"}
+{"segment_id": "evalcall_007_s004", "call_id": "evalcall_007", "turn": 4, "speaker": "customer", "text": "Klingt gut, ich bin gespannt, was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_007_s005", "call_id": "evalcall_007", "turn": 5, "speaker": "advisor", "text": "Erzählen Sie mir doch ja mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s006", "call_id": "evalcall_007", "turn": 6, "speaker": "advisor", "text": "Welche Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s007", "call_id": "evalcall_007", "turn": 7, "speaker": "customer", "text": "Ich möchte gerne Geld für meine Kinder anlegen und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s008", "call_id": "evalcall_007", "turn": 8, "speaker": "advisor", "text": "Wie viel können Sie denn äh monatlich zur Seite legen? sozusagen", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s009", "call_id": "evalcall_007", "turn": 9, "speaker": "advisor", "text": "welche verträge sozusagen haben sie denn bereits bei anderen ähm banken.", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s010", "call_id": "evalcall_007", "turn": 10, "speaker": "customer", "text": "Genau, ich will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s011", "call_id": "evalcall_007", "turn": 11, "speaker": "advisor", "text": "Wie ist denn äh Ihre aktuelle wissen Sie Absicherung im Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s012", "call_id": "evalcall_007", "turn": 12, "speaker": "customer", "text": "Am liebsten eine ja kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s013", "call_id": "evalcall_007", "turn": 13, "speaker": "advisor", "text": "äh wofür möchten sie das geld am ende konkret genau einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_007_s014", "call_id": "evalcall_007", "turn": 14, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Ratenkredit.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s015", "call_id": "evalcall_007", "turn": 15, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 20.000 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s016", "call_id": "evalcall_007", "turn": 16, "speaker": "advisor", "text": "also Ich würde Ihnen zusätzlich einen Ratenkredit ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s017", "call_id": "evalcall_007", "turn": 17, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s018", "call_id": "evalcall_007", "turn": 18, "speaker": "customer", "text": "Aha, das klingt halt erstmal interessant. ja", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s019", "call_id": "evalcall_007", "turn": 19, "speaker": "advisor", "text": "Schauen Sie, mit dem Ratenkredit legen Sie monatlich 20.000 Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s020", "call_id": "evalcall_007", "turn": 20, "speaker": "advisor", "text": "wissen Sie Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s021", "call_id": "evalcall_007", "turn": 21, "speaker": "advisor", "text": "was halten sie wissen sie von der monatlichen rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s022", "call_id": "evalcall_007", "turn": 22, "speaker": "customer", "text": "Kann ich da auch wieder raus ja falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s023", "call_id": "evalcall_007", "turn": 23, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s024", "call_id": "evalcall_007", "turn": 24, "speaker": "advisor", "text": "was müsste das angebot erfüllen, damit sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s025", "call_id": "evalcall_007", "turn": 25, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Ratenkredit.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s026", "call_id": "evalcall_007", "turn": 26, "speaker": "advisor", "text": "Das bedeutet konkret für halt Sie: Sie sparen jeden Monat 20.000 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s027", "call_id": "evalcall_007", "turn": 27, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s028", "call_id": "evalcall_007", "turn": 28, "speaker": "customer", "text": "aha wissen sie das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s029", "call_id": "evalcall_007", "turn": 29, "speaker": "advisor", "text": "schauen sie mit dem ratenkredit legen sie monatlich 20.000 äh euro an und es arbeitet für naja sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_007_s030", "call_id": "evalcall_007", "turn": 30, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s031", "call_id": "evalcall_007", "turn": 31, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s032", "call_id": "evalcall_007", "turn": 32, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s033", "call_id": "evalcall_007", "turn": 33, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s034", "call_id": "evalcall_007", "turn": 34, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen ähm damit sozusagen Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s035", "call_id": "evalcall_007", "turn": 35, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_007_s036", "call_id": "evalcall_007", "turn": 36, "speaker": "advisor", "text": "Dann brauche ich nur noch halt Ihre Unterschrift also hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_007_s037", "call_id": "evalcall_007", "turn": 37, "speaker": "advisor", "text": "Beim nächsten Termin schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_007_s038", "call_id": "evalcall_007", "turn": 38, "speaker": "advisor", "text": "wunderbar, dann setzen wir also den vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_007_s039", "call_id": "evalcall_007", "turn": 39, "speaker": "customer", "text": "also Gut, dann lassen Sie ja uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_007_s040", "call_id": "evalcall_007", "turn": 40, "speaker": "customer", "text": "wissen sie ja, ja machen wir, ich freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_007_s041", "call_id": "evalcall_007", "turn": 41, "speaker": "advisor", "text": "Sie haben damit wirklich eine gute Entscheidung getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_007_s042", "call_id": "evalcall_007", "turn": 42, "speaker": "advisor", "text": "Sie können sich jederzeit bei mir melden wenn etwas unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_007_s043", "call_id": "evalcall_007", "turn": 43, "speaker": "advisor", "text": "ich bin überzeugt, dass sie diese entscheidung nicht bereuen ähm werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_007_s044", "call_id": "evalcall_007", "turn": 44, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal! ähm", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_008_s000", "call_id": "evalcall_008", "turn": 0, "speaker": "customer", "text": "Danke, ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_008_s001", "call_id": "evalcall_008", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_008_s002", "call_id": "evalcall_008", "turn": 2, "speaker": "customer", "text": "Ja, alles bestens, also der Termin passt mir heute ähm sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_008_s003", "call_id": "evalcall_008", "turn": 3, "speaker": "customer", "text": "äh klingt gut, ich bin wissen sie gespannt, was sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_008_s004", "call_id": "evalcall_008", "turn": 4, "speaker": "advisor", "text": "Wie viel können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_008_s005", "call_id": "evalcall_008", "turn": 5, "speaker": "customer", "text": "Genau, ich will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_008_s006", "call_id": "evalcall_008", "turn": 6, "speaker": "advisor", "text": "Wie ist wissen Sie denn Ihre aktuelle Absicherung im halt Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_008_s007", "call_id": "evalcall_008", "turn": 7, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen ja naja einen Ratenkredit.", "phase": "Angebot"}
+{"segment_id": "evalcall_008_s008", "call_id": "evalcall_008", "turn": 8, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden sozusagen Monat 300 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_008_s009", "call_id": "evalcall_008", "turn": 9, "speaker": "advisor", "text": "ich würde ihnen zusätzlich einen ratenkredit ans herz legen, um die lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_008_s010", "call_id": "evalcall_008", "turn": 10, "speaker": "advisor", "text": "So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_008_s011", "call_id": "evalcall_008", "turn": 11, "speaker": "advisor", "text": "Schauen Sie, mit dem Ratenkredit legen Sie monatlich 300 Euro an und es arbeitet ähm für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_008_s012", "call_id": "evalcall_008", "turn": 12, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_008_s013", "call_id": "evalcall_008", "turn": 13, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_008_s014", "call_id": "evalcall_008", "turn": 14, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_008_s015", "call_id": "evalcall_008", "turn": 15, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_008_s016", "call_id": "evalcall_008", "turn": 16, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_008_s017", "call_id": "evalcall_008", "turn": 17, "speaker": "advisor", "text": "Dann also brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_008_s018", "call_id": "evalcall_008", "turn": 18, "speaker": "advisor", "text": "Beim nächsten Termin schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_008_s019", "call_id": "evalcall_008", "turn": 19, "speaker": "advisor", "text": "wunderbar, dann setzen wir den vertrag jetzt direkt nun ja auf. nun ja", "phase": "Abschluss"}
+{"segment_id": "evalcall_008_s020", "call_id": "evalcall_008", "turn": 20, "speaker": "customer", "text": "ja, machen wir, ich halt freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s000", "call_id": "evalcall_009", "turn": 0, "speaker": "customer", "text": "danke ja ähm ähm der parkplatz war direkt vor der tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_009_s001", "call_id": "evalcall_009", "turn": 1, "speaker": "customer", "text": "sehr gerne, wissen sie äh ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_009_s002", "call_id": "evalcall_009", "turn": 2, "speaker": "advisor", "text": "Schön, Sie wiederzusehen, Herr Wagner! Wie geht es Ihrer Familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_009_s003", "call_id": "evalcall_009", "turn": 3, "speaker": "customer", "text": "Ja alles nun ja bestens der Termin passt mir heute sehr gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_009_s004", "call_id": "evalcall_009", "turn": 4, "speaker": "customer", "text": "Klingt gut, ich bin gespannt, was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_009_s005", "call_id": "evalcall_009", "turn": 5, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s006", "call_id": "evalcall_009", "turn": 6, "speaker": "advisor", "text": "welche ziele verfolgen ja sie denn mittelfristig? wissen sie", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s007", "call_id": "evalcall_009", "turn": 7, "speaker": "customer", "text": "ich möchte gerne etwas sicheres aufbauen und vielleicht später ein also haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s008", "call_id": "evalcall_009", "turn": 8, "speaker": "advisor", "text": "Wie viel können Sie denn monatlich zur Seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s009", "call_id": "evalcall_009", "turn": 9, "speaker": "advisor", "text": "welche also verträge haben sie ja denn bereits bei anderen banken.", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s010", "call_id": "evalcall_009", "turn": 10, "speaker": "customer", "text": "genau ich will nun ja einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s011", "call_id": "evalcall_009", "turn": 11, "speaker": "advisor", "text": "wie ist denn ihre aktuelle absicherung im fall einer berufsunfähigkeit? genau", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s012", "call_id": "evalcall_009", "turn": 12, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle. also", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s013", "call_id": "evalcall_009", "turn": 13, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende wissen Sie konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_009_s014", "call_id": "evalcall_009", "turn": 14, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Tagesgeldkonto.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s015", "call_id": "evalcall_009", "turn": 15, "speaker": "advisor", "text": "das bedeutet konkret für sie: sie sparen naja jeden monat 250 euro und bauen vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s016", "call_id": "evalcall_009", "turn": 16, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Tagesgeldkonto ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s017", "call_id": "evalcall_009", "turn": 17, "speaker": "advisor", "text": "ähm So profitieren Sie von attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s018", "call_id": "evalcall_009", "turn": 18, "speaker": "customer", "text": "nun ja äh Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s019", "call_id": "evalcall_009", "turn": 19, "speaker": "advisor", "text": "schauen sie, mit dem tagesgeldkonto legen sie monatlich 250 euro an und es arbeitet für sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_009_s020", "call_id": "evalcall_009", "turn": 20, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s021", "call_id": "evalcall_009", "turn": 21, "speaker": "advisor", "text": "Was halten Sie von sozusagen der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s022", "call_id": "evalcall_009", "turn": 22, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s023", "call_id": "evalcall_009", "turn": 23, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s024", "call_id": "evalcall_009", "turn": 24, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s025", "call_id": "evalcall_009", "turn": 25, "speaker": "customer", "text": "Ich bin da noch skeptisch das ist eine lange äh Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_009_s026", "call_id": "evalcall_009", "turn": 26, "speaker": "advisor", "text": "sollen wir das dann so machen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s027", "call_id": "evalcall_009", "turn": 27, "speaker": "advisor", "text": "Dann brauche ich nur noch Ihre Unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s028", "call_id": "evalcall_009", "turn": 28, "speaker": "advisor", "text": "Beim nächsten Termin schauen wir uns dann noch Ihre Altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s029", "call_id": "evalcall_009", "turn": 29, "speaker": "advisor", "text": "sozusagen wunderbar, dann setzen wir den vertrag jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s030", "call_id": "evalcall_009", "turn": 30, "speaker": "customer", "text": "Gut, dann lassen Sie uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_009_s031", "call_id": "evalcall_009", "turn": 31, "speaker": "advisor", "text": "Sie haben damit wirklich eine gute Entscheidung äh getroffen.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_009_s032", "call_id": "evalcall_009", "turn": 32, "speaker": "advisor", "text": "Sehr gerne. Grüßen Sie Ihre Familie und kommen Sie gut nach Hause.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_009_s033", "call_id": "evalcall_009", "turn": 33, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_010_s000", "call_id": "evalcall_010", "turn": 0, "speaker": "customer", "text": "Danke, ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_010_s001", "call_id": "evalcall_010", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_010_s002", "call_id": "evalcall_010", "turn": 2, "speaker": "advisor", "text": "schön, sie wiederzusehen, herr hoffmann! wie geht es ihrer familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_010_s003", "call_id": "evalcall_010", "turn": 3, "speaker": "customer", "text": "ja alles bestens der termin passt mir heute sehr gut. nun ja", "phase": "Kontakt"}
+{"segment_id": "evalcall_010_s004", "call_id": "evalcall_010", "turn": 4, "speaker": "customer", "text": "Klingt gut, ich bin gespannt, was Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_010_s005", "call_id": "evalcall_010", "turn": 5, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s006", "call_id": "evalcall_010", "turn": 6, "speaker": "advisor", "text": "Welche Ziele verfolgen ähm Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s007", "call_id": "evalcall_010", "turn": 7, "speaker": "customer", "text": "Ich möchte gerne Geld für meine Kinder anlegen und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s008", "call_id": "evalcall_010", "turn": 8, "speaker": "advisor", "text": "wie viel können sie denn monatlich zur seite legen?", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s009", "call_id": "evalcall_010", "turn": 9, "speaker": "advisor", "text": "welche verträge haben sie also denn bereits bei ähm anderen banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s010", "call_id": "evalcall_010", "turn": 10, "speaker": "customer", "text": "genau, ich halt genau will einfach nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s011", "call_id": "evalcall_010", "turn": 11, "speaker": "advisor", "text": "äh Wie ist denn Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s012", "call_id": "evalcall_010", "turn": 12, "speaker": "customer", "text": "Am liebsten eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s013", "call_id": "evalcall_010", "turn": 13, "speaker": "advisor", "text": "Wofür möchten Sie das Geld am Ende konkret einsetzen?", "phase": "Analyse"}
+{"segment_id": "evalcall_010_s014", "call_id": "evalcall_010", "turn": 14, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Festgeld.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s015", "call_id": "evalcall_010", "turn": 15, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 50.000 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s016", "call_id": "evalcall_010", "turn": 16, "speaker": "advisor", "text": "ich würde wissen sie ihnen zusätzlich einen festgeld ans herz legen, um die lücke zu naja schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s017", "call_id": "evalcall_010", "turn": 17, "speaker": "advisor", "text": "So profitieren Sie von also attraktiven Konditionen und staatlicher Förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s018", "call_id": "evalcall_010", "turn": 18, "speaker": "customer", "text": "Aha, sozusagen das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s019", "call_id": "evalcall_010", "turn": 19, "speaker": "advisor", "text": "Schauen Sie, mit dem Festgeld legen Sie monatlich 50.000 Euro nun ja an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s020", "call_id": "evalcall_010", "turn": 20, "speaker": "advisor", "text": "Wie klingt das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s021", "call_id": "evalcall_010", "turn": 21, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s022", "call_id": "evalcall_010", "turn": 22, "speaker": "customer", "text": "Kann ich da auch wieder raus falls sich äh meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s023", "call_id": "evalcall_010", "turn": 23, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s024", "call_id": "evalcall_010", "turn": 24, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s025", "call_id": "evalcall_010", "turn": 25, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt äh haben, empfehle ich Ihnen einen Festgeld.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s026", "call_id": "evalcall_010", "turn": 26, "speaker": "advisor", "text": "Das bedeutet konkret für Sie: Sie sparen jeden Monat 50.000 Euro und bauen Vermögen halt auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s027", "call_id": "evalcall_010", "turn": 27, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Festgeld ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s028", "call_id": "evalcall_010", "turn": 28, "speaker": "advisor", "text": "so profitieren sie von attraktiven konditionen und staatlicher förderung.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s029", "call_id": "evalcall_010", "turn": 29, "speaker": "customer", "text": "wissen sie aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s030", "call_id": "evalcall_010", "turn": 30, "speaker": "advisor", "text": "halt Schauen Sie mit dem Festgeld legen Sie monatlich 50.000 Euro an und es arbeitet sozusagen für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_010_s031", "call_id": "evalcall_010", "turn": 31, "speaker": "advisor", "text": "wie halt klingt das denn so weit für sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s032", "call_id": "evalcall_010", "turn": 32, "speaker": "advisor", "text": "Was halten Sie von der monatlichen Rate?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s033", "call_id": "evalcall_010", "turn": 33, "speaker": "customer", "text": "Kann ich nun ja da genau auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s034", "call_id": "evalcall_010", "turn": 34, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut.", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s035", "call_id": "evalcall_010", "turn": 35, "speaker": "advisor", "text": "was müsste das angebot erfüllen, damit sie halt sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s036", "call_id": "evalcall_010", "turn": 36, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist ja eine ähm lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_010_s037", "call_id": "evalcall_010", "turn": 37, "speaker": "advisor", "text": "Sollen wir das dann so machen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_010_s038", "call_id": "evalcall_010", "turn": 38, "speaker": "advisor", "text": "Dann brauche ich nur ähm noch Ihre Unterschrift wissen Sie hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_010_s039", "call_id": "evalcall_010", "turn": 39, "speaker": "customer", "text": "Gut, dann lassen Sie uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_010_s040", "call_id": "evalcall_010", "turn": 40, "speaker": "customer", "text": "Ja, sozusagen machen wir, ich ähm freue mich, dass wir es geregelt haben.", "phase": "Abschluss"}
+{"segment_id": "evalcall_010_s041", "call_id": "evalcall_010", "turn": 41, "speaker": "advisor", "text": "sehr gerne. grüßen sie ihre äh familie und kommen sie gut nach hause. ja", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_010_s042", "call_id": "evalcall_010", "turn": 42, "speaker": "advisor", "text": "Sie können sich jederzeit bei mir melden genau nun ja wenn etwas unklar ist.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_010_s043", "call_id": "evalcall_010", "turn": 43, "speaker": "advisor", "text": "Ich bin überzeugt, dass Sie diese Entscheidung nicht bereuen werden.", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_010_s044", "call_id": "evalcall_010", "turn": 44, "speaker": "advisor", "text": "Passen Sie gut auf sich auf und bis zum nächsten Mal!", "phase": "Verstaerkung"}
+{"segment_id": "evalcall_011_s000", "call_id": "evalcall_011", "turn": 0, "speaker": "customer", "text": "Danke, ja, der Parkplatz war direkt vor der Tür.", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s001", "call_id": "evalcall_011", "turn": 1, "speaker": "customer", "text": "Sehr gerne, ich freue mich, dass es endlich klappt.", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s002", "call_id": "evalcall_011", "turn": 2, "speaker": "advisor", "text": "ähm Schön, Sie wiederzusehen, Herr Klein! Wie geht es Ihrer Familie?", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s003", "call_id": "evalcall_011", "turn": 3, "speaker": "customer", "text": "ja, alles bestens, der termin passt mir heute sehr ja gut.", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s004", "call_id": "evalcall_011", "turn": 4, "speaker": "advisor", "text": "Lassen Sie uns kurz den Ablauf für heute besprechen, bevor wir starten.", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s005", "call_id": "evalcall_011", "turn": 5, "speaker": "customer", "text": "Klingt gut, ich bin gespannt, was also Sie mir vorschlagen.", "phase": "Kontakt"}
+{"segment_id": "evalcall_011_s006", "call_id": "evalcall_011", "turn": 6, "speaker": "advisor", "text": "Erzählen Sie mir doch mal mehr über Ihre aktuelle Situation.", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s007", "call_id": "evalcall_011", "turn": 7, "speaker": "advisor", "text": "Welche Ziele verfolgen Sie denn mittelfristig?", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s008", "call_id": "evalcall_011", "turn": 8, "speaker": "customer", "text": "Ich möchte gerne ein Eigenheim finanzieren und vielleicht später ein Haus kaufen.", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s009", "call_id": "evalcall_011", "turn": 9, "speaker": "advisor", "text": "wie viel können sie denn monatlich zur seite äh legen.", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s010", "call_id": "evalcall_011", "turn": 10, "speaker": "advisor", "text": "welche verträge haben sie denn bereits naja bei naja anderen banken?", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s011", "call_id": "evalcall_011", "turn": 11, "speaker": "customer", "text": "nun ja Genau, ich will einfach naja nachts ruhig schlafen können.", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s012", "call_id": "evalcall_011", "turn": 12, "speaker": "advisor", "text": "Wie ist denn Ihre aktuelle Absicherung im Fall einer Berufsunfähigkeit?", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s013", "call_id": "evalcall_011", "turn": 13, "speaker": "customer", "text": "Am liebsten nun ja eine kleine Eigentumswohnung und ein Polster für Notfälle.", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s014", "call_id": "evalcall_011", "turn": 14, "speaker": "advisor", "text": "wofür möchten äh sie das geld am ende konkret einsetzen. wissen sie", "phase": "Analyse"}
+{"segment_id": "evalcall_011_s015", "call_id": "evalcall_011", "turn": 15, "speaker": "advisor", "text": "Auf Basis dessen, was Sie gesagt haben, empfehle ich Ihnen einen Investmentfonds.", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s016", "call_id": "evalcall_011", "turn": 16, "speaker": "advisor", "text": "Das bedeutet konkret für wissen Sie Sie: Sie sparen jeden Monat 250 Euro und bauen Vermögen auf.", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s017", "call_id": "evalcall_011", "turn": 17, "speaker": "advisor", "text": "Ich würde Ihnen zusätzlich einen Investmentfonds ans Herz legen, um die Lücke zu schließen.", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s018", "call_id": "evalcall_011", "turn": 18, "speaker": "advisor", "text": "so profitieren sie von attraktiven konditionen genau und staatlicher förderung. genau", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s019", "call_id": "evalcall_011", "turn": 19, "speaker": "customer", "text": "Aha, das klingt erstmal interessant.", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s020", "call_id": "evalcall_011", "turn": 20, "speaker": "advisor", "text": "wissen Sie Schauen Sie genau mit dem Investmentfonds legen Sie monatlich 250 Euro an und es arbeitet für Sie.", "phase": "Angebot"}
+{"segment_id": "evalcall_011_s021", "call_id": "evalcall_011", "turn": 21, "speaker": "advisor", "text": "Wie klingt ähm das denn so weit für Sie?", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s022", "call_id": "evalcall_011", "turn": 22, "speaker": "advisor", "text": "was halten sie von der monatlichen rate.", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s023", "call_id": "evalcall_011", "turn": 23, "speaker": "customer", "text": "Kann ich da auch wieder raus, falls sich meine Lage ändert?", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s024", "call_id": "evalcall_011", "turn": 24, "speaker": "customer", "text": "Bei meinem Nachbarn lief so etwas Ähnliches nicht so gut. wissen Sie", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s025", "call_id": "evalcall_011", "turn": 25, "speaker": "advisor", "text": "Was müsste das Angebot erfüllen, damit Sie sich rundum wohlfühlen?", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s026", "call_id": "evalcall_011", "turn": 26, "speaker": "customer", "text": "Ich bin da noch skeptisch, das ist eine lange Bindung.", "phase": "Pruefung"}
+{"segment_id": "evalcall_011_s027", "call_id": "evalcall_011", "turn": 27, "speaker": "advisor", "text": "Sollen wir naja das dann ja so machen?", "phase": "Abschluss"}
+{"segment_id": "evalcall_011_s028", "call_id": "evalcall_011", "turn": 28, "speaker": "advisor", "text": "dann brauche ich nur noch ihre unterschrift hier unten.", "phase": "Abschluss"}
+{"segment_id": "evalcall_011_s029", "call_id": "evalcall_011", "turn": 29, "speaker": "advisor", "text": "beim nächsten termin schauen wir uns wissen sie dann noch ihre altersvorsorge an.", "phase": "Abschluss"}
+{"segment_id": "evalcall_011_s030", "call_id": "evalcall_011", "turn": 30, "speaker": "advisor", "text": "Wunderbar, dann setzen wir den Vertrag wissen Sie jetzt direkt auf.", "phase": "Abschluss"}
+{"segment_id": "evalcall_011_s031", "call_id": "evalcall_011", "turn": 31, "speaker": "customer", "text": "Gut, dann lassen Sie uns das so abschließen.", "phase": "Abschluss"}
+{"segment_id": "evalcall_011_s032", "call_id": "evalcall_011", "turn": 32, "speaker": "customer", "text": "ja, machen nun ja wir, ich freue halt mich, dass wir es geregelt haben.", "phase": "Abschluss"}
