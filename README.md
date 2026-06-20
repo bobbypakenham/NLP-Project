@@ -32,8 +32,8 @@ pip install -r requirements.txt
 
 | Model | Accuracy |
 | --- | --- |
-| Zero-shot XLM-R (baseline) | 0.55 |
-| BERT (`bert-base-german-cased`) | 0.69 |
+| Zero-shot XLM-R (baseline) | 0.46 |
+| BERT (`bert-base-german-cased`) | 0.73 |
 | BERT + Viterbi order-smoothing | 0.82 |
 
 Metrics reported: accuracy, macro-F1, per-class precision/recall, and a confusion matrix (see `01_kaapav_finetune_colab.ipynb`).
