@@ -1,14 +1,14 @@
- # KAAPAV Phase Classification — VALOR NLP Layer
+# KAAPAV Phase Classification: VALOR NLP Layer
 
-NLP group project (Option 1 — Application Development). Supervised classification of sales-call segments into six ordered KAAPAV phases: **Kontakt, Analyse, Angebot, Pruefung, Abschluss, Verstaerkung**.
+NLP group project (Option 1 - Application Development). Supervised classification of sales-call segments into six ordered KAAPAV phases: **Kontakt, Analyse, Angebot, Pruefung, Abschluss, Verstaerkung**.
 
 ## Repository Contents
 
-- `01_kaapav_finetune_colab.ipynb` — Fine-tuning pipeline: German BERT (`bert-base-german-cased`), zero-shot baseline (XLM-R), Viterbi order-smoothing, and evaluation on the held-out gold set.
-- `02_clustering_eda_colab.ipynb` — Exploratory clustering analysis (KMeans + UMAP) justifying the supervised classification framing.
-- `synthetic_transcripts.jsonl` — Synthetic training transcripts: **1231 labelled segments across 32 calls**.
-- `gold_eval.jsonl` — Held-out evaluation set: **448 labelled segments across 12 calls**. No call or text overlap with the training set.
-- `requirements.txt` — Pinned Python dependencies.
+- `01_kaapav_finetune_colab_final.ipynb` - Fine-tuning pipeline: German BERT (`bert-base-german-cased`), zero-shot baseline (XLM-R), Viterbi order-smoothing, and evaluation on the held-out gold set.
+- `02_clustering_eda_colab_final.ipynb` - Exploratory clustering analysis (KMeans + UMAP) justifying the supervised classification framing.
+- `synthetic_transcripts.jsonl` - Synthetic training transcripts: **1231 labelled segments across 32 calls**.
+- `gold_eval.jsonl` - Held-out evaluation set: **448 labelled segments across 12 calls**. No call or text overlap with the training set.
+- `requirements.txt` - Pinned Python dependencies.
 
 Each segment is a JSON object with fields: `segment_id`, `call_id`, `turn`, `speaker` (`advisor` / `customer`), `text`, `phase`.
 
@@ -16,11 +16,11 @@ Each segment is a JSON object with fields: `segment_id`, `call_id`, `turn`, `spe
 
 The notebooks are designed for Google Colab.
 
-1. Open `01_kaapav_finetune_colab.ipynb` in Google Colab.
+1. Open `01_kaapav_finetune_colab_final.ipynb` in Google Colab.
 2. Set **Runtime → Change runtime type → GPU** (T4 or above recommended).
 3. When the upload cell prompts, upload `synthetic_transcripts.jsonl` and `gold_eval.jsonl` from this repo.
 4. **Runtime → Run all.**
-5. Repeat for `02_clustering_eda_colab.ipynb` (same upload step).
+5. Repeat for `02_clustering_eda_colab_final.ipynb` (same upload step).
 
 ## Requirements
 
@@ -30,13 +30,13 @@ pip install -r requirements.txt
 
 ## Results (gold evaluation set)
 
-| Model | Accuracy |
-| --- | --- |
-| Zero-shot XLM-R (baseline) | 0.46 |
-| BERT (`bert-base-german-cased`) | 0.73 |
-| BERT + Viterbi order-smoothing | 0.82 |
+| Model | Accuracy | Macro-F1 |
+| --- | --- | --- |
+| Zero-shot XLM-R (baseline) | 0.46 | 0.40 |
+| BERT (`bert-base-german-cased`) | 0.73 | 0.73 |
+| BERT + Viterbi order-smoothing | 0.82 | 0.83 |
 
-Metrics reported: accuracy, macro-F1, per-class precision/recall, and a confusion matrix (see `01_kaapav_finetune_colab.ipynb`).
+Metrics reported: accuracy, macro-F1, per-class precision/recall, and a confusion matrix (see `01_kaapav_finetune_colab_final.ipynb`).
 
 ## Note on Evaluation Data
 
